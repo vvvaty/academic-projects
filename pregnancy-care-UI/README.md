@@ -33,8 +33,6 @@ Contributed observation and medication statement by me -> *parts in PatientPage.
 *List of patient, vital sign are contributed by my teammates.*
 ![demo](/pregnancy-care-UI/img/demo.mp4)
 
-``` html
 <video src="/pregnancy-care-UI/img/demo.mp4" controls="controls" width="500" height="300"></video>
-```
 
 > ⚠️ This file is part of my individual contribution and does not represent the full system. Shared for portfolio use.
