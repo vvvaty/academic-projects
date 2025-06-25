@@ -1,4 +1,4 @@
-[Go to vvvaty home](https://vvvaty.github.io/"vvvaty")
+[Go to vvvaty home](https://vvvaty.github.io/)
 # academic-projects
 This repo includes my selected contributions during my 2-year Master's program, focusing on UIUX design and prototyping across healthcare, education, and entertainment fields.
 
