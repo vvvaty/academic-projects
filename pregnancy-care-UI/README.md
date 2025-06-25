@@ -41,7 +41,7 @@ Contributed observation and medication statement by me -> *parts in PatientPage.
 - Designed and converted Figma to responsive JSX for layout and styling with UI teams.
 - Built homepage with medical information promotion and quick check appointment with time sequence for physicians.
 ## Demo
-*List of patient, vital sign are contributed by my teammates.*
+*List of Patients, vital signs are contributed by my teammates.*
 
 https://github.com/user-attachments/assets/39401491-01bf-41b6-bfd7-cec38d9ef7e6  
 
