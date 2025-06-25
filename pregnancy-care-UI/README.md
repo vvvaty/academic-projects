@@ -1,7 +1,16 @@
 [Go to vvvaty home](https://vvvaty.github.io/)
+### Table of Content
+- [Purpose and Features](#purpose-and-features)
+- [Time](#time)
+- [Resource](#resource)
+- [Background](#background)
+- [My role](#my-role)
+- [Tools](#tools)
+- [What I have done](#what-i-have-done)
+- [Demo](#demo)
 
 # Pregnancy Care Web App - Form UI component (individual contribution)
-This folder containd the DoctorHomePage.js/css and PatientPage.js/css that my member and I developed as part of a collaborative academic project.
+This folder contains the DoctorHomePage.js/css and PatientPage.js/css that my member and I developed as part of a collaborative academic project.
 
 ![Doctor Homepage](/pregnancy-care-UI/img/doctor-homepage.jpg)
 ![Patient details in doctor page](/pregnancy-care-UI/img/doctor-patient%20details.jpg)
@@ -23,7 +32,7 @@ React.js: UI components create
 JavaScript: Translated and fetched API data to readable format  
 CSS: Layout and visual flow for decision-making support  
 HL7 FHIR: The clinical database for prototyping
-## What I have done?
+## What I have done
 Promote information and quick check appointment on homepage -> *parts in DoctorHomePage.js/css*  
 Co-developer Personal details with frontend teammate; -> *parts in PatientPage.js/css*  
 Contributed observation and medication statement by me -> *parts in PatientPage.js/css*
