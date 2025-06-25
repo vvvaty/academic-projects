@@ -1,5 +1,5 @@
 [Go to vvvaty home](https://vvvaty.github.io/)
-### Table of Content
+### Table of Contents
 - [Purpose and Features](#purpose-and-features)
 - [Time](#time)
 - [Resource](#resource)
