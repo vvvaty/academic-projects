@@ -33,8 +33,7 @@ Contributed observation and medication statement by me -> *parts in PatientPage.
 - Built homepage with medical information promotion and quick check appointment with time sequence for physicians.
 ## Demo
 *List of patient, vital sign are contributed by my teammates.*
-![demo](/pregnancy-care-UI/img/demo.mp4)
 
-<video src="/pregnancy-care-UI/img/demo.mp4" controls="controls" width="500" height="300"></video>
+https://github.com/user-attachments/assets/39401491-01bf-41b6-bfd7-cec38d9ef7e6  
 
 > ⚠️ This file is part of my contribution and does not represent the full system. Shared for portfolio use.
