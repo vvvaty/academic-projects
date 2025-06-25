@@ -7,17 +7,23 @@ This folder containd the DoctorHomePage.js/css and PatientPage.js/css that my me
 ## Purpose and Features
 This is a modular prenatal care interface to improve doctor's decision-making clarity and efficiency.
 The main feature is integrating key data indicators in page and visualized data, providing a fluent visual data flow and lower cognitive load in a minimum time.
-## time, resource, and background
+## Time
+Completed on Nov, 2024
+## Resource
+> ⚠️ This file is part of my individual contribution and does not represent the full system. Shared for portfolio use.  
+HL7 FHIR usage is essential.
+## Background
+A team project from Digital Health Software Project at UQ.
 ## My role
 UI Designer, Frontend Developer
 ## Tools
-React.js: UI components create
-JavaScript: Translated and fetch API data to readable format
-CSS: Layout and visual flow for decision-making support
+React.js: UI components create  
+JavaScript: Translated and fetch API data to readable format  
+CSS: Layout and visual flow for decision-making support  
 HL7 FHIR: The clinical database for prototyping
 ## What I have done?
-Promot information and quick check appointnebt in homepage -> *parts in DoctorHomePage.js/css*
-Co-developer Personal details with frontend teammate; -> *parts in PatientPage.js/css*
+Promot information and quick check appointnebt in homepage -> *parts in DoctorHomePage.js/css*  
+Co-developer Personal details with frontend teammate; -> *parts in PatientPage.js/css*  
 Contributed observation and medication statement by me -> *parts in PatientPage.js/css*
 - Integrating HL7 FHIR API data into custom components with JSON parsing in React state.
 - Wrote structure logic for dynamic patient updates of personal details, observation, and medication statement using React.js and API.
@@ -26,5 +32,6 @@ Contributed observation and medication statement by me -> *parts in PatientPage.
 ## Demo
 *List of patient, vital sign are contributed by my teammates.*
 ![demo](/pregnancy-care-UI/img/demo.mp4)
+<video src="/pregnancy-care-UI/img/demo.mp4" controls="controls" width="500" height="300"></video>
 
 > ⚠️ This file is part of my individual contribution and does not represent the full system. Shared for portfolio use.
