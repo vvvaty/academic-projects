@@ -17,7 +17,7 @@ This folder contains 3 parts of hand detection, chess moving logic, and color cu
 ![Color Customization](/img/chessmate_play.JPG)
 ## Purpose and Features
 This is an Educational learning Toys for early child, aiming to better develop their cognition, sensory, brain simulation, relationships, and creativity.  
-Kids or families will have a equally matched Reversi Board Game competition with their favorite color, and in 3D dimension! Learning in daily interaction is the core at early stage and covers development in and external (like cognition, sensory, and body coordination). As a result, we designed a toy-style Reversi Cube Game with intuitive hand input and visual output, allowing users to spend the most interesting moments with their best relationships. 
+Kids or families will have an equally matched Reversi Board Game competition with their favorite color, and in 3D! Learning in daily interaction is the core at the early stage and covers development in and external (like cognition, sensory, and body coordination). As a result, we designed a toy-style Reversi Cube Game with intuitive hand input and visual output, allowing users to spend the most interesting moments with their best relationships. 
 ## Time
 Completed in June 2024
 ## Resource
@@ -44,12 +44,13 @@ A 5x5x5 cube with 125 LEDs in every intersection with row and column.
 6. Place down pieces and check if the row, column, and diagonal connect in the same color.
 7. Eliminated same color connection, and reset the cube if there is no space.
 ## What I have done
-Collaborate elimination logic with teammate;  
+Collaborate on elimination logic with teammate;  
 - Implemented elimination logic and RGB color transitions via map(), enhancing tactile engagement and resulting in 80% user satisfaction in exhibition.
 - Optimized game loop with buffering and feedback timing to prevent sensor conflicts, achieving 90% placement accuracy and reducing interaction delay by 20%.
-- Debugged I/O stability and refined sensors to ensure consistent performance across multiple sessions. *-> coorperate with teammates.*
+- Debugged I/O stability and refined sensors to ensure consistent performance across multiple sessions. *-> cooperate with teammates.*
 ## Demo
+https://github.com/user-attachments/assets/78c87784-7ec7-487e-9100-29f70147f895
 
-
+https://github.com/user-attachments/assets/7a70ac08-d3e2-43e7-9de3-97e0e972c58c
 
 > ⚠️ This file is my personal contribution, using AI to support logic diffusion and perspective expansion, building the game mechanism with the team and enhancing the program myself. Shared for portfolio use. 
