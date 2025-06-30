@@ -11,7 +11,7 @@
 - [Demo](#demo)
 
 # ChessMate - Sensors Interaction Design (individual contribution)
-This folder contains 3 parts of hand detection, chess moving logic, and color customization in chessmate-interaction-design.ino file.
+This folder contains 3 parts of hand detection, chess moving logic, and color customization in `chessmate-interaction-design.ino` file.
 
 ![Main Device](/chessmate/img/nchessmate_cover.png)
 ![Color Customization](/chessmate/img/chessmate_play.JPG)
