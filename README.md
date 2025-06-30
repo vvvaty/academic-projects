@@ -3,7 +3,7 @@
 This repo includes my selected contributions during my 2-year Master's program, focusing on UIUX design and prototyping across healthcare, education, and entertainment fields.
 
 ## Existing Projects
-[Pregnancy Care Web App](https://github.com/vvvaty/academic-projects/tree/main/pregnancy-care-UI)
+[Pregnancy Care Web App](https://github.com/vvvaty/academic-projects/tree/main/pregnancy-care-UI)  
 [ChessMate](https://github.com/vvvaty/academic-projects/tree/main/chessmate)
 
 ### Structure
